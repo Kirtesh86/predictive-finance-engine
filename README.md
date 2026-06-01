@@ -68,7 +68,7 @@ graph TD
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/predictive-finance-engine.git
+git clone https://github.com/Kirtesh86/predictive-finance-engine.git
 cd predictive-finance-engine
 ```
 
